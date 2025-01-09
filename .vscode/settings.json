@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "*.ino": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp",
+        "gptstepper": "cpp"
+    }
+}
